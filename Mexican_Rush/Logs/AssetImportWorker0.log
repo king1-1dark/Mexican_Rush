@@ -806,3 +806,24 @@ Received Import Request.
 Start importing Assets/Scenes/Menu.unity using Guid(88d7451b127e73f468daff36728316de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00f3508bed56317e3c726bab620e4f5d') in 0.036677 seconds
   Import took 0.040489 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000967 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.340 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1815 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.3 MB.
+System memory in use after: 89.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2339.
+Total: 2.865300 ms (FindLiveObjects: 0.288100 ms CreateObjectMapping: 0.121600 ms MarkObjects: 2.284200 ms  DeleteObjects: 0.169500 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
